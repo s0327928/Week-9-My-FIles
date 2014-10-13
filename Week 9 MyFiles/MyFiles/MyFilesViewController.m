@@ -43,7 +43,7 @@
     //check if iphone or ipad
     if ([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPhone) {
         //load file
-        NSString *path = [[NSBundle mainBundle] pathForResource:@"angrybirds" ofType:@"pdf"];
+        NSString *path = [[NSBundle mainBundle] pathForResource:@"Google" ofType:@"pdf"];
         NSURL *targetURL = [NSURL fileURLWithPath:path];
         NSURLRequest *request = [NSURLRequest requestWithURL:targetURL];
         
@@ -54,7 +54,7 @@
     
     else {
         //load file
-        NSString *path = [[NSBundle mainBundle] pathForResource:@"angrybirds" ofType:@"pdf"];
+        NSString *path = [[NSBundle mainBundle] pathForResource:@"Google" ofType:@"pdf"];
         NSURL *targetURL = [NSURL fileURLWithPath:path];
         NSURLRequest *request = [NSURLRequest requestWithURL:targetURL];
              [WebView loadRequest:request];

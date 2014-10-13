@@ -19,6 +19,7 @@
 		127247421701159C00DE5441 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 127247401701159C00DE5441 /* MainStoryboard.storyboard */; };
 		127247451701159C00DE5441 /* MyFilesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 127247441701159C00DE5441 /* MyFilesViewController.m */; };
 		12793F081815AA9400B93E45 /* angrybirds.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 12793F061815AA9400B93E45 /* angrybirds.pdf */; };
+		DB6BE54119EC8AED004819DE /* Google.pdf in Resources */ = {isa = PBXBuildFile; fileRef = DB6BE54019EC8AED004819DE /* Google.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		127247431701159C00DE5441 /* MyFilesViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyFilesViewController.h; sourceTree = "<group>"; };
 		127247441701159C00DE5441 /* MyFilesViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyFilesViewController.m; sourceTree = "<group>"; };
 		12793F071815AA9400B93E45 /* en */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = en; path = en.lproj/angrybirds.pdf; sourceTree = "<group>"; };
+		DB6BE54019EC8AED004819DE /* Google.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Google.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		1272472F1701159C00DE5441 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				DB6BE54019EC8AED004819DE /* Google.pdf */,
 				12793F061815AA9400B93E45 /* angrybirds.pdf */,
 				127247301701159C00DE5441 /* MyFiles-Info.plist */,
 				127247311701159C00DE5441 /* InfoPlist.strings */,
@@ -178,6 +181,7 @@
 				127247331701159C00DE5441 /* InfoPlist.strings in Resources */,
 				1272473B1701159C00DE5441 /* Default.png in Resources */,
 				1272473D1701159C00DE5441 /* Default@2x.png in Resources */,
+				DB6BE54119EC8AED004819DE /* Google.pdf in Resources */,
 				1272473F1701159C00DE5441 /* Default-568h@2x.png in Resources */,
 				127247421701159C00DE5441 /* MainStoryboard.storyboard in Resources */,
 				12793F081815AA9400B93E45 /* angrybirds.pdf in Resources */,
